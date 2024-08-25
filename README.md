@@ -27,15 +27,7 @@ Since the analysis reveals specific patterns in sales data, AtliQ can focus on i
 
 # Snapshot of Dashboard (Power BI Service)
 
-Page 1
-
-![cr1](https://github.com/user-attachments/assets/102aff7d-ec65-4295-a103-d554affecab8)
-
-Page 2
-
-![cr2](https://github.com/user-attachments/assets/31fe3d2a-483e-4d42-ac55-fe4c4c748fbc)
- 
-
+![Sales insights](https://github.com/user-attachments/assets/48e0781c-4524-4350-b321-bc9b718af0ef)
 
 # Insights
 
